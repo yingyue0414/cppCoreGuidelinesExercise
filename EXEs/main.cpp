@@ -55,7 +55,7 @@ private:
 /**
  * @brief Exercise 4:
  * Create a header file which defines Point class in Exercise 2.
- * Define the following functions in your header file:
+ * Declare the following functions in your header file:
  * (1) Squared distance same as in Exercise 2
  * (2) Elementwise addition (xsum, ysum) = (x1, y1) + (x2, y2)
  * (3) Dot product dotProduct(pt1, pt2) = x1 * x2 + y1 * y2
