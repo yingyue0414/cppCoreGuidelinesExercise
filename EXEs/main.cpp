@@ -62,6 +62,19 @@ private:
  *
  */
 
+/**
+ * @brief Exercise 5:
+ * Add Doxygen style comment block to your header file!
+ * 
+ */
+
+/**
+ * @brief Exercise 6:
+ * Create a new branch and push your changes to a new branch on Github.
+ * If you want, you can try to create a pull request and to merge your branch
+ * into \code{main}. You view the lines changed in a PR.
+ */
+
 
 
 int main() {
